@@ -2,7 +2,7 @@
 
 This is meant to be used in conjuction with shauser's [mkdocs-pdf-export-plugin](https://github.com/shauser/mkdocs-pdf-export-plugin), which already does a fantastic job of adding HTML > PDF documents for each generated mkdocs page (and custom download links on each page!).
 
-I've used some of the best parts of jgrassler's [mkdocs-pandoc](https://github.com/jgrassler/mkdocs-pandoc), which actually works really, but didn't pull the full document together with bookmarks properly for me.
+I've used some of the best parts of jgrassler's [mkdocs-pandoc](https://github.com/jgrassler/mkdocs-pandoc), which actually works really, really well. However it didn't pull the full document together with bookmarks tree laid out properly for me.
 
 This script will:
 
